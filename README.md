@@ -1,2 +1,2 @@
 # mobile_integration-corona_sdk
-sample corona sdk (free) usage
+Shows an example of how to use TealiumIQ Tag Management.  This sample only runs on iOS and Android devices.  You will need to proxy the traffic or use Live Events in your TealiumIQ console to verify the events
